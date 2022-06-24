@@ -1,0 +1,41 @@
+.sidebar {
+    padding: 20px;
+}
+
+.sidebar-title {
+    padding-bottom: 20px;
+    color: white;
+}
+
+.sidebar-line {
+    border: none;
+    border-top: 1px solid #323238;
+}
+
+.sidebar-item-wrapper {
+    margin-top: 2em;
+}
+
+.sidebar-item-box {
+    border: 1px solid #323238;
+    border-radius: 5px;
+}
+
+.sidebar-item-text {
+    margin-bottom: 5px;
+    color: #8d8d99;
+}
+
+.sidebar-item-box {
+    padding: 12px;
+}
+
+.sidebar-item-name {
+    color: #81d8f7;
+    margin-bottom: 15px;
+}
+
+.sidebar-item-desc {
+    color: white;
+    font-weight: 600;
+}
